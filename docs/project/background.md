@@ -7,7 +7,7 @@
 ![alt text](../img/background1.svg){: style="width:500px;margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 <div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: IHME, Global Burden of Disease (2019)</div>
 
-# **About cytosine deaminase and its enzymatic function:**
+# **About cytosine deaminase and its enzymatic function**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The enzyme cytosine deaminase is found in several prokaryotes and a few eukaryotes. Our project adopts the deamination of 5-fluorocytosine (5FC) as the inactive drug into the active 5- fluorouracil (5FU) by employing yeast cytosine deaminase (yCD). 5FU is an antimetabolite interfering with the synthesis of thymine by altering the shape of thymidylate synthase, causing errors in DNA replication and preventing tumor cell proliferation. Targeted delivery of this prodrug to the tumor regions can lead to apoptosis of the cells to produce anti-cancer effects. The direct administration of 5FU may induce several side effects such as increased risk of getting infections, bleeding, and breathlessness. Since 5FC is not deaminated in mammalian cells and is well absorbed, 5FC and CD delivery has little intrinsic toxicity and poses several advantages over direct 5FU delivery. 
 ![alt text](../img/background2.png){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 <div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: Rooseboom, Martijn & Commandeur, Jan & Vermeulen, Nico P.E.. (2004). Enzyme-Catalyzed Activation of Anticancer Prodrugs. Pharmacological reviews</div>
