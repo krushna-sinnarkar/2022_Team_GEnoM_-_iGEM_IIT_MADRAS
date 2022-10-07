@@ -2,8 +2,15 @@
 
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
-## **Team Lead**
+## **Core Team**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
+**Shobhan Karthick | <a href="mailto:karthickshobhan@gmail.com">karthickshobhan@gmail.com</a>**
+
+![alt text](img/Shobhan Karthick Ms be19b009.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Shobhan Karthick is a 3rd year biological engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
+</div>
 
 **Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
 
@@ -60,12 +67,6 @@ I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind 
 Sanjana Adluru is a third-year student in Biological Engineering. She's passionate about singing and has watched a fair share of sitcoms to last her a lifetime. She is keenly interested in the fields of oncology, immunology, genomics and synthetic biology. She strives to take up projects which bring about beneficial change in the world. 
 </div>
 
-**Shobhan Karthick | <a href="mailto:karthickshobhan@gmail.com">karthickshobhan@gmail.com</a>**
-
-![alt text](img/Shobhan Karthick Ms be19b009.jpg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-Shobhan Karthick is a 3rd year biological engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
-</div>
 
 
 <br>
