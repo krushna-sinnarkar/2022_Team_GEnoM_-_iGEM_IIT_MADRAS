@@ -45,21 +45,21 @@ I am Twisha Shivashankar. I am from Bangalore and am currently a 2nd year underg
 
 **Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
 
-![alt text](img/Twisha T S be21b042.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/Varshini be19b006.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
 </div>
 
 **Sanjana Adluru | <a href="mailto:be20b028@smail.iitm.ac.in">be20b028@smail.iitm.ac.in</a>**
 
-![alt text](img/Twisha T S be21b042.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/Sanjana Adluru be20b028.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Sanjana Adluru is a third-year student in Biological Engineering. She's passionate about singing and has watched a fair share of sitcoms to last her a lifetime. She is keenly interested in the fields of oncology, immunology, genomics and synthetic biology. She strives to take up projects which bring about beneficial change in the world. 
 </div>
 
 **Shobhan Karthick | <a href="mailto:karthickshobhan@gmail.com">karthickshobhan@gmail.com</a>**
 
-![alt text](img/Twisha T S be21b042.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/Shobhan Karthick Ms be19b009.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Shobhan Karthick is a 3rd year biological engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
 </div>
