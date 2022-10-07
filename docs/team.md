@@ -2,6 +2,9 @@
 
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
+## **Team Lead**
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
 **Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
 
 ![alt text](img/Ananya Sangeetha Nagarjunan bs20b006.jpeg){: style="height:200px;width:200px; margin:20px"}
