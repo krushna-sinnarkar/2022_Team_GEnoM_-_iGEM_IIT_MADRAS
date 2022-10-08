@@ -214,4 +214,149 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
 Protocols in Molecular Biology. doi:10.1002/0471142727.mb0803s51<br>
 
 </div>  
+<h2 style="margin: 0 !important;">5. Double digestion of plasmid backbone</h2>
 
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials:</h3></li>
+  <ul>
+    <li>10-20 µL of plasmid (pET15b) (200-300 ng/μL, total amount 3-5 µg)
+    <li>10 µL of 10X Restriction buffer
+    <li>10 µL of 10X Bovine Serum Albumin (BSA, final concentration is usually 100 µg/mL)
+    <li>1.5-2 µL NdeI (Restriction Enzyme 1) (10-20 units/µL)
+    <li>1.5-2 µL BlpI (Restriction Enzyme 2)
+    <li>Make up to 70 or 100µL total volume with nuclease free water
+  </ul>
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+  <ul>
+    <li>Add the reagents above in a sterile 1.5 mL Eppendorf, first add the TE or water, then the plasmid pET15b, then the restriction buffer and BSA, and mix thoroughly. Finally, add the restriction enzymes. 
+    <li>Incubate the reaction at the right temperature (37 °C) and start the timer. Run the reaction for 40-60 minutes. 
+    <li>Run the digest on an agarose gel and inspect the results for a single band the size of your insert.
+  </ul>
+</ul>
+
+<div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://www.sigmaaldrich.com/IN/en/technical-documents/technical-article/genomics/cloning-and-expression/restriction-enzyme-cloning-manual-cloning 
+</div>
+
+<h2 style="margin: 0 !important;">6. Ligation of the double digested insert and plasmid</h2>
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials:</h3></li>
+  <ul>
+    <li>Amplified yCD gene (25-50 ng/μL)
+    <li>Plasmid backbone (75 ng/μL)
+    <li>Ligation buffer (10X)
+    <li>T7 DNA Ligase
+    <li>Nuclease free water
+  </ul>
+    <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+    <ul>
+    <li>Mix 1 μL of  the yCD gene obtained from PCR, 1 μL of the plasmid backbone, 1 μL of 10X ligation buffer, 1 μL of T7 DNA ligase (3 units), and nuclease-free water to 10 μL.
+    <li>Incubate the ligation mixture for 4 hours at 14℃.
+    <li>Store the ligation mixture for transformation.
+    </ul>
+</ul>
+
+<div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://static.igem.org/mediawiki/2018/a/a4/T--Tuebingen--RestrictionLigation.pdf</div>
+
+<h2 style="margin: 0 !important;">7. Transforming yCD into E. coli</h2>
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials:</h3></li>
+  <ul>
+    <li>LB agar
+    <li>SOC medium 
+    <li>Appropriate selection antibiotic
+    <li>IPTG (Isopropyl-β-D-thiogalactoside
+    <li>X-gal, S-Gal
+    <li>Ferric Ammonium citrate
+  </ul>
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+  <ul>
+    <li>Take competent E.coli cells from –80℃ freezer. 
+    <li>Turn on the water bath to 42℃. 
+    <li>Put competent cells in a 1.5 ml eppendorf. 
+    <li>For transforming a DNA construct, use 50 ul of competent cells. 
+    <li>Add 50 ng of circular DNA into E.coli cells. Incubate on ice for 10 minutes to thaw competent cells. 
+    <li>Put tubes with DNA and E.coli into the water bath at 42℃ for 45 seconds. 
+    <li>Put tubes back on ice for 2 minutes to reduce damage to the E.coli cells. 
+    <li>Add 1 ml of LB (with no antibiotic added). Incubate tubes for 1 hour at 37℃.
+    <li>Spread about 100 ul of the resulting culture on LB plates (with appropriate antibiotic added – usually Ampicillin or Kanamycin.)
+    <li>Grow the plates overnight at 37℃. 
+    <li>Pick transformed colonies 12-16 hours later. 
+  </ul>
+</ul>
+
+<div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://web.stanford.edu/~teruel1/Protocols/pdf/Transformation%20Protocol%20Using%20Heat%20Shock.pdf</div>
+
+<h2 style="margin: 0 !important;">8. Extracting cytosine deaminase from E.coli (protein purification with his tag</h2>
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials and Equipment:</h3></li>
+  <ul>
+    <li>Ni-NTA superflow (QIAGEN)
+    <li>Tris base
+    <li>Urea
+    <li>IPTG
+    <li>NaH2PO4·H2O
+    <li>NaOH
+    <li>HCl
+    <li>LB/Amp media
+    <li>Buffer B (pH 8, 1 L): 100 mM NaH2PO4, 10 mM Tris·HCl, 8 M urea 480.5 g Adjust pH to 8.0 using NaOH
+    <li>Buffer C (pH 6.3, 1 L): 100 mM NaH2PO4, 10 mM Tris·HCl, 8 M urea
+    <li>Buffer D (pH 5.9, 1 L): 100 mM NaH2PO4, 10 mM Tris·HCl, 8 M urea
+    <li>Buffer E (pH 4.5, 1L): 100 mM NaH2PO4, 10 mM Tris·HCl, 8 M urea
+    <li>Centrifuge
+    <li>Sonicator
+    <li tyle="list-style-type:none;">Note: Due to the dissociation of urea, the pH of Buffers B, C, D, and E should be adjusted immediately prior to use. Do not autoclave.
+  </ul>
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+  <li><h3 style="margin: 0 !important;">a) Induction of recombinant proteins</h3></li>
+  <ul>
+    <li>After picking the transformed colonies, grow 5-10 ml culture to a saturated stage. The next day, inoculate this starter culture in 2 to 4 L of LB/Amp media using 1:50 or 1:100 dilution of saturated culture.
+    <li>Grow the culture till it reaches OD= 0.4 to 0.6. Add IPTG to its final concentration of 0.6 M and induce 6x His-tagged protein production for 4 hours.
+    <li>Harvest cells using a centrifuge at 5,000 rpm for 20 min. Store cell pellets at -80°C.
+  </ul>
+  <li><h3 style="margin: 0 !important;">b) Preparation of cleared E. coli lysates under denaturing conditions</h3></li>
+  <ul>
+    <li>Thaw the cell pellet at room temperature (RT) and resuspend in buffer B at 2 ml per gram wet weight.
+    <li>onicate cells in a cold room with setting: Amplitude 30%, 3 min, 15 sec on, 15 sec off. Try 3 min cycles at least twice
+    <li>Centrifuge lysate at 10,000X at 8-12 °C to pellet cellular debris
+    <li>Collect the supernatant. Save 20 μl as input
+  </ul>
+  <li><h3 style="margin: 0 !important;">c) Batch purification of 6x His-tagged proteins from E. coli under denaturing conditions</h3></li>
+  <ul>
+    <li>Add 1 ml of the pre-washed 50% Ni-NTA slurry to 4 ml lysate and mix gently by rotating for 60 min at RT.
+    <li>Load lysate-resin mixture carefully into an empty column with the bottom cap still attached.
+    <li>Remove the bottom cap and collect the flow through.
+    <li>Collect flow through (20 μl) for SDS-PAGE analysis.
+    <li>Wash twice with 4 ml buffer C
+    <li>Keep wash fractions (20 μl) for SDS-PAGE analysis
+    <li>Elute the recombinant protein 4 times with 0.5 ml buffer D, followed by 4 times with 0.5 ml buffer E. 
+    <li>Collect fractions and analyze by SDS-PAGE
+  </ul>
+</ul>
+
+<div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://bio-protocol.org/exchange/protocoldetail?id=8&type=1</div>
+
+<h2 style="margin: 0 !important;">9. Assaying for enzymatic activity of cytosine deaminase in pH stable buffer</h2>
+
+<p>Note: The conversion of cytosine to uracil by yCD will be measured spectrophotometrically by monitoring change in absorbance at 286 nm, while the conversion of 5FC to 5FU will be monitored at 238 nm. </p>
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials and Equipment:</h3></li>
+  <ul>
+    <li>Buffers at pH 5, 6, 7
+    <li>Tris-Cl
+    <li>Nanodrop spectrophotometer
+  </ul>
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+  <ul>
+    <li>Dilute the protein to 2µM in 50mM Tris-Cl at fixed pH values of 5,6 and 7 respectively.
+    <li>Mix at 1:1 ratio with a range of nine cytosine deaminase concentrations from 0.2–1mM in the same buffer. 
+    <li>Measure the absorbance using the nanodrop spectrophotometer at 238 nm every few seconds until baseline is reached and take the first reading after mixing.
+    <li>Measurements will be taken in quadruplicate and averaged to reduce error. Initial velocity is calculated as a function of the initial slope by curve-fitting the resulting plot, taking the derivative and extrapolating back to time zero.
+    <li>Km and kcat values of wild-type yCD and mutant constructs are determined from a double reciprocal Lineweaver-Burk plot of the resulting data and the catalytic efficiency kcat/Km is calculated from these values.
+  </ul>
+</ul>
+
+<div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2330253/</div>
