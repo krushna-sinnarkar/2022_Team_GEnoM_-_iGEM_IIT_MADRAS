@@ -95,21 +95,21 @@ I am Twisha Shivashankar. I am from Bangalore and am currently a 2nd year underg
 
 **Anirudh TP | <a href="mailto:bs21b007@smail.iitm.ac.in">bs21b007@smail.iitm.ac.in</a>**
 
-![alt text](img/anirudh.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/anirudh1.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Anirudh TP is a second year Undergraduate pursuing Biological Sciences from IIT Madras. He's a very enthusiastic and compassionate individual and likes to be very organized with his work. He is very interested in research and likes playing table tennis and watching movies.  
 </div>
 
 **Pranathi Ravikumar | <a href="mailto:bs21b023@gmail.com">bs21b023@gmail.com</a>**
 
-![alt text](img/pranathi.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/pranathi1.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Pranathi is a second year undergraduate student majoring in Biological Sciences at IIT Madras. Apart from her keen interest in Biotechnology, she plays the violin, listens to music and is an avid reader.   
 </div>
 
 **Niharika Balasubramanian  | <a href="mailto:bs21b022@smail.iitm.ac.in">bs21b022@smail.iitm.ac.in</a>**
 
-![alt text](img/niharika.jpeg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/niharika1.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Niharika Balasubramanian is a second year biological sciences student at IIT Madras. She has always been a bit of a distracted person, never actually doing what she’s supposed to be, but somehow what she actually does ends up being useful. She enjoys reading, baking, and crochet, but would like to remind everyone that she’s the most useful one in the case of a zombie apocalypse.  
 </div>

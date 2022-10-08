@@ -2,7 +2,7 @@
 
  Date   | Task performed   | 
 | ------ | ---------- | 
-| 8th June, 2022 | 12 new lab members were inducted into the iGEM IITM Team | 
+| 8th June | 12 new lab members were inducted into the iGEM IITM Team | 
 | 14th June | "First lab team meet New members were briefed about directed evolution and iDEC" | 
 | 15th June | Work was initiated to ideate on a project for iDEC. One avenue was to integrate directed evolution with an ongoing project on bacterial cellulose. The other avenue was to come with a new project entirely. |
  16th June |Resources regarding directed evolution and iDEC were shared with the team  | 
