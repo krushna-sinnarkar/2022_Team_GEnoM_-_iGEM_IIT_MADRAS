@@ -17,6 +17,7 @@
     <li>Note that the medium should not be more than a fifth of the total flask volume</li>
     <li>Vortex the contents briefly to disperse cells.</li>
     <li>Grow the culture in a shaking incubator at 300 rpm in flasks.</li>
+    </ul>
 </ul>
 <div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source:
 https://www.sigmaaldrich.com/IN/en/technical-documents/protocol/microbiological-testing/pathogen-and-spoilage-testing/yeast-growth-protocols
