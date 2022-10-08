@@ -55,4 +55,22 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
   <li><p style="margin: 0 !important;">Random mutagenesis by error prone PCR : EP-PCR is used to introduce random mutations in the gene encoding yCD. The 5’ and 3’ boundaries of the mutated region have been defined using the primers: </p></li>
 </ul>
 
+<h2 style="margin: 0 !important;">Protein expression and purification</h2>
+
+<ul>
+  <li><p style="margin: 0 !important;">The expression of the protein of interest is induced by the addition of IPTG (Isopropyl β-D-1-thiogalactopyranoside) after the culture with the transformants reaches a saturated stage.</p></li>
+  <li><p style="margin: 0 !important;">The cells are harvested after incubation.</p></li>
+  <li><p style="margin: 0 !important;">The lysates are prepared under denaturing conditions.</p></li>
+  <li><p style="margin: 0 !important;">The batch purification is performed in an IMAC column containing Ni-NTA Agarose beads and analyzed by SDS-PAGE.</p></li>
+</ul>
+
+<h2 style="margin: 0 !important;">Protein enzymatic activity assays at constant pH </h2>
+<br><br>
+The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by monitoring change in absorbance at 238nm.
+<ul>
+  <li><p style="margin: 0 !important;">The conversion of 5FC to 5FU by yCD is measured spectrophotometrically by monitoring the change in absorbance spectrum at 238 nm.</p></li>
+  <li><p style="margin: 0 !important;">The protein is diluted in TrisCl at a fixed pH (with setups ranging from pH6 to pH7 in increments) and the enzymatic activity is assayed. , The initial reaction velocity and initial slope are calculated (after averaging multiple measurements to reduce error) by fitting a curve to the values obtained.</p></li>
+  <li><p style="margin: 0 !important;">A double reciprocal (Lineweaver-Burk) plot is constructed and Km and kcat values of the enzymes are obtained to calculate the catalytic efficiency (kcat/Km).</p></li>
+</ul>
+
 [Back to top](#)
