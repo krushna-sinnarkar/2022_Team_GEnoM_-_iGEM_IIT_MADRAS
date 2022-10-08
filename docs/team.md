@@ -65,7 +65,6 @@ I’m a Biological Engineering student at the Indian Institute of Technology, Ma
 
 ![alt text](img/Bavishya S M be20b009.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-I’ll message you this soon (not def my description)
 </div>
 
 **Keshav Krishna M B | <a href="mailto:be20b018@smail.iitm.ac.in">be20b018@smail.iitm.ac.in</a>**
