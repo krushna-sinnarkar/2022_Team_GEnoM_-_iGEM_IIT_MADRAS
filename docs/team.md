@@ -12,6 +12,16 @@
 Shobhan Karthick is a 3rd year biological engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
 </div>
 
+**Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
+
+![alt text](img/Varshini be19b006.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
+</div>
+
+## **Team Head**
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
 **Aarohee Vora | <a href="mailto:aaroheeavora@smail.iitm.ac.in">aaroheeavora@smail.iitm.ac.in</a>**
 
 ![alt text](img/Aaro.jpeg){: style="height:200px;width:200px; margin:20px"}
@@ -26,6 +36,13 @@ Aarohee is a 3rd year undergraduate student in Biosciences at IIT Madras. She is
 Sanjana Adluru is a third-year student in Biological Engineering. She's passionate about singing and has watched a fair share of sitcoms to last her a lifetime. She is keenly interested in the fields of oncology, immunology, genomics and synthetic biology. She strives to take up projects which bring about beneficial change in the world. 
 </div>
 
+**Ashvita Saishaa Ponnada  | <a href="mailto:be20b007@smail.iitm.ac.in">be20b007@smail.iitm.ac.in</a>**
+
+![alt text](img/ashvita.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Ashvita is a third year undergraduate majoring in Biological engineering at IIT Madras. She has an avid interest towards the fields of genetics, genomics and synthetic biology. Apart from being a huge gossip and lipbalm addict, she is passionate about singing and classical dance, and is a voracious reader. 
+</div>
+
 **Prahalaad Vijay Varahaswami | <a href="mailto:prahalaad@smail.iitm.ac.in">prahalaad@smail.iitm.ac.in</a>**
 
 ![alt text](img/prahalaad.jpeg){: style="height:200px;width:200px; margin:20px"}
@@ -33,12 +50,8 @@ Sanjana Adluru is a third-year student in Biological Engineering. She's passiona
 Prahalaad is a 3rd year undergraduate in Biological Engineering. He is passionate about classical music and Indian percussion is his jam. He also loves biology jokes, He'd tell you one but it'll get lost in translation, just like introns. 
 </div>
 
-**Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
-
-![alt text](img/Varshini be19b006.jpeg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
-</div>
+## **Lab Members**
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 **Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
 
@@ -99,13 +112,6 @@ Pranathi is a second year undergraduate student majoring in Biological Sciences 
 ![alt text](img/niharika.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Niharika Balasubramanian is a second year biological sciences student at IIT Madras. She has always been a bit of a distracted person, never actually doing what she’s supposed to be, but somehow what she actually does ends up being useful. She enjoys reading, baking, and crochet, but would like to remind everyone that she’s the most useful one in the case of a zombie apocalypse.  
-</div>
-
-**Ashvita Saishaa Ponnada  | <a href="mailto:be20b007@smail.iitm.ac.in">be20b007@smail.iitm.ac.in</a>**
-
-![alt text](img/ashvita.jpg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-Ashvita is a third year undergraduate majoring in Biological engineering at IIT Madras. She has an avid interest towards the fields of genetics, genomics and synthetic biology. Apart from being a huge gossip and lipbalm addict, she is passionate about singing and classical dance, and is a voracious reader. 
 </div>
 
 **Malavika Venkatesh  | <a href="mailto:bs20b020@smail.iitm.ac.in">bs20b020@smail.iitm.ac.in</a>**
