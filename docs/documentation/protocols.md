@@ -78,7 +78,8 @@ https://www.sigmaaldrich.com/IN/en/technical-documents/protocol/microbiological-
   <ul>
     <li>Mix 1 µg of the extracted yeast DNA, 5 µl of 1X rCutSmartBuffer, 1 1.0 µl (20 units) of Ndel, 1.0 µl (10 units) of blpl, and adjust the volume to 50 µl with nuclease-free water</li>
     <li>Incubate at 37°C for 1 hour</li>
-
+</ul>
+</ul>
 <div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: Cold Spring Harbor Protocols; doi: 10.1101/pdb.prot093542, 
 https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
 
@@ -104,7 +105,7 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
     <li>UV light source</li>
     <li>Microwave</li>
     
-</ul>
+</ul></ul>
 
 
 <ul style="list-style-type:none;">
@@ -123,7 +124,7 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
     <li>Place newly poured gel at 4 °C for 10-15 mins, or let sit at room temperature for 20-30 mins until it has completely solidified.</li>
     
     
-</ul>
+</ul></ul>
     
  <ul style="list-style-type:none;">
   <li><h3 style="margin: 0 !important;">b) Loading Samples and Running an Agarose Gel:</h3></li>
@@ -144,6 +145,36 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
     <li>Turn OFF power, disconnect the electrodes from the power source, and then carefully remove the gel from the gel box.</li>
     <li>Using any device that has UV light, visualize your DNA fragments as bands. </li>
 
+</ul></ul>
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">c) For purification the isolated yCD gene:</h3></li>
+  
+  
+<ul>
+
+
+<li>Once you have run your gel, move it to an open UV box. Remove it from any gel tray as plastic will block most of the UV
+</li>
+    <li>With a clean, sterile razor blade, slice the desired DNA fragment from the gel.
+</li>
+    <li>Place the gel in a labeled microfuge tube
+</li>
+    <li>Using a scale, weigh the tube with the gel fragment after zeroing the scale with an empty tube.
+</li>
+    <li>Add 200 μL Binding Buffer (NTI) per 100 mg gel.</li>
+    <li>Incubate the mixture at 50ºC for 5-10 minutes or until the gel has completely melted.
+</li>
+    <li>Place a PCR clean-up Gel column in a provided 2 mL collection tube</li>
+    <li>Apply 700 μl of the DNA/agarose solution to the PCR clean-up Gel column, and centrifuge at 11,000 x g for 30s at room temperature</li>
+    <li>Discard liquid and place the PCR clean-up Gel column back into the same collection tube. For volumes greater than 700 µL, load the column and centrifuge successively, 700 μL at a time. Each PCR clean-up Gel column has a total capacity of 25 μg DNA. If the expected yield is larger, divide the sample into the appropriate number of columns.</li>
+    <li>Add 700 μL of Buffer NT3 into the PCR clean-up Gel column. Centrifuge at 11,000 x g for 30s at room temperature to wash the column. Discard the flow-through and re-use the collection tube.</li>
+    <li>Repeat step with another 700μL of Buffer NT3.</li>
+    <li>Discard liquid and centrifuge the empty PCR clean-up Gel column for 1 minute at 11,000 x g to dry the column matrix. Do not skip this step, it is critical for the removal of ethanol from the PCR clean-up Gel column.</li>
+    <li>Place a PCR clean-up Gel column into a clean 1.5 mL eppendorf tube. Add 15-30 μL (depending on desired concentration of final product) of Elution Buffer (10 mM Tris-HCl, pH 8.5) directly onto the column matrix and incubate at room temperature for 1 minute. Centrifuge for 1 minute at 11,000 x g to elute DNA. This represents approximately 70% of bound DNA. An optional second elution will yield any residual DNA, though at a lower concentration.</li>   
+   </ul></ul>
+
+   <div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://www.addgene.org/protocols/gel-electrophoresis/, https://www.protocols.io/viewdna-purification-from-an-agarose-gel-protocol-for-ewov18j32gr2/v1?step=5
+</div>
 
 
     
