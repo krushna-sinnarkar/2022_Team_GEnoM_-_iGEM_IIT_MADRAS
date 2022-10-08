@@ -24,9 +24,8 @@ https://www.sigmaaldrich.com/IN/en/technical-documents/protocol/microbiological-
 </div>
 <h2 style="margin: 0 !important;">2. Isolating yCD gene from yeast</h2>
 
-<h3 style="margin: 0 !important;">a) Preparing yeast cells for lysis:</h3>
-
 <ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">a) Preparing yeast cells for lysis:</h3></li>
   <li><h3 style="margin: 0 !important;">Materials:</h3></li>
   <ul>
     <li>Yeast cells</li>
