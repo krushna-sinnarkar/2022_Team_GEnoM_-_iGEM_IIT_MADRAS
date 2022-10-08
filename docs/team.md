@@ -9,7 +9,7 @@
 
 ![alt text](img/Shobhan Karthick Ms be19b009.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-Shobhan Karthick is a fourth-year Biological Engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
+Shobhan Karthick is a fourth-year Biological Engineering student who is a synthetic biology enthusiast. He loves learning new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
 </div>
 
 **Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
@@ -53,7 +53,7 @@ Prahalaad is a third-year undergraduate in Biological Engineering. He is passion
 ## **Lab Members**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
-**Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
+**Ananya Sangeetha Nagarjunan | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
 
 ![alt text](img/Ananya Sangeetha Nagarjunan bs20b006.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
@@ -118,7 +118,7 @@ Niharika Balasubramanian is a second-year biological sciences student at IIT Mad
 
 ![alt text](img/malavika1.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-Malavika is a third-year undergraduate in Biological Sciences with immense passion for scientific research and eagerness to learn new concepts. Her interests include Genetics, Molecular Biology and Biomimicry. She also love Badminton, Music, Dance and Painting! DNA at Gene Therapy - " I think I'm addicted to replication because of my relationship with my parent strand" 
+Malavika is a third-year undergraduate in Biological Sciences with immense passion for scientific research and eagerness to learn new concepts. Her interests include Genetics, Molecular Biology and Biomimicry. She also love Badminton, Music, Dance and Painting! According to her, DNA tells Gene Therapy - " I think I'm addicted to replication because of my relationship with my parent strand" 
 </div>
 
 ## **WebOps Team**
