@@ -75,7 +75,9 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
   <li><p style="margin: 0 !important;">The batch purification is performed in an IMAC column containing Ni-NTA Agarose beads and analyzed by SDS-PAGE.</p></li>
 </ul>
 ![alt text](../img/e2.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://www.biologicscorp.com/blog/iptg-induction-protein-expression/#.Y0HlZ3ZBy3A</div>
 ![alt text](../img/e3.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://www.researchgate.net/publication/313021038_Highly_selective_magnetic_affinity_purification_of_histidine-tagged_proteins_by_Ni_2_carrying_monodisperse_composite_microspheres</div>
 <h2 style="margin: 0 !important;">Protein enzymatic activity assays at constant pH </h2>
 The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by monitoring change in absorbance at 238nm.
 <ul>
@@ -83,5 +85,6 @@ The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by m
   <li><p style="margin: 0 !important;">The protein is diluted in TrisCl at a fixed pH (with setups ranging from pH6 to pH7 in increments) and the enzymatic activity is assayed. , The initial reaction velocity and initial slope are calculated (after averaging multiple measurements to reduce error) by fitting a curve to the values obtained.</p></li>
   <li><p style="margin: 0 !important;">A double reciprocal (Lineweaver-Burk) plot is constructed and Km and kcat values of the enzymes are obtained to calculate the catalytic efficiency (kcat/Km).</p></li>
 </ul>
-
+![alt text](../img/e4.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://www.spandidos-publications.com/10.3892/or.2013.2584</div>
 [Back to top](#)
