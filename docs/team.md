@@ -19,10 +19,10 @@ Shobhan Karthick is a 3rd year biological engineering student who is a synthetic
 I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
 </div>
 
-## **Team Head**
+## **Lab Heads**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
-**Aarohee Vora | <a href="mailto:aaroheeavora@smail.iitm.ac.in">aaroheeavora@smail.iitm.ac.in</a>**
+**Aarohee Vora | <a href="mailto:bs2002@smail.iitm.ac.in">bs2002@smail.iitm.ac.in</a>**
 
 ![alt text](img/Aaro.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
@@ -83,7 +83,7 @@ I’m a Biological Engineering student at the Indian Institute of Technology, Ma
 **Keshav Krishna M B | <a href="mailto:be20b018@smail.iitm.ac.in">be20b018@smail.iitm.ac.in</a>**
 
 ![alt text](img/Keshav Krishna M B be20b018.jpg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
+<div style="text-align: justify">I'm Keshav Krishna, a 3rd year Biological Engineering student at IIT Madras. My primary interests lie in Genetics and neuroscience. On the non-academic front I enjoy painting, singing and binging stories with good writing irrespective of the media. I am always open to an intellectual challenge.
 </div>
 
 **Twisha Shivashankar | <a href="mailto:be21b042@smail.iitm.ac.in">be21b042@smail.iitm.ac.in</a>**
@@ -104,7 +104,7 @@ Anirudh TP is a second year Undergraduate pursuing Biological Sciences from IIT 
 
 ![alt text](img/pranathi.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-Pranathi is a second year undergraduate student majoring in Biological Sciences at IIT Madras. Apart from her keen interest in Biotechnology, she plays the violin, listens to music and is am avid reader.   
+Pranathi is a second year undergraduate student majoring in Biological Sciences at IIT Madras. Apart from her keen interest in Biotechnology, she plays the violin, listens to music and is an avid reader.   
 </div>
 
 **Niharika Balasubramanian  | <a href="mailto:bs21b022@smail.iitm.ac.in">bs21b022@smail.iitm.ac.in</a>**
@@ -118,7 +118,7 @@ Niharika Balasubramanian is a second year biological sciences student at IIT Mad
 
 ![alt text](img/malavika1.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
+A 3rd year undergraduate in Biological Sciences with immense passion for scientific research and eagerness to learn new concepts. Interests include Genetics, Molecular Biology and Biomimicry. Also love Badminton, Music, Dance and Painting! DNA at Gene Therapy - " I think I'm addicted to replication because of my relationship with my parent strand" 
 </div>
 
 ## **WebOps Team**
@@ -132,5 +132,21 @@ Ananya is a student of Biological Sciences at the Indian Institute of Technology
 
 ![alt text](img/Sagar.jpeg){: style="height:200px;width:200px; margin:20px"}
 
+## **Fauculty Advisor**
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
+
+**Dr. Karthik Raman**
+
+![alt text](img/kar.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Dr. Karthik Raman is an Associate Professor at the Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras. He co-founded and co-ordinates the Initiative for Biological Systems Engineering and is a core member of the Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI). He has been a researcher in the area of systems biology for the last 15+ years and has been teaching a course on systems biology for the last eight years, to (mostly) engineers from different backgrounds. His lab works on computational approaches to understand and manipulate biological networks, with applications in metabolic engineering and synthetic biology.
+</div>
+
+**Dr. Athi Narayanan Naganathan**
+
+![alt text](img/athi.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Dr. Athi Narayanan Naganathan is an Associate Professor at the Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras. His lab works on the experimental characterization of protein conformational behavior, modeling and predicting folding landscapes using statistical models, understanding protein folding and dynamics through coarse-grained and all-atom molecular simulations, and multi-scale exploration of protein conformational ensembles. He has been recently honoured with the Young Faculty Recognition Award, IIT Madras, India (2020), Institute Research and Development Award, IIT Madras, India (2019) and JSPS Invitational Fellowship for Research in Japan (2019).
+</div>
 <br>
 [Back to top](#)
