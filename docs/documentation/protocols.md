@@ -84,6 +84,67 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
 
 </div>
 
+<h3 style="margin: 0 !important;">3. Performing agarose gel electrophoresis identify the gene</h3>
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Materials and Equipment:</h3></li>
+  <ul>
+    <li>TAE 50x buffer: Tris-base - 242 g, 100% acetic acid - 57.1 ml, EDTA- 100 ml 0.5M sodium EDTA, dH2O up to 1L</li>
+    <li>Agarose</li>
+    <li>Ethidium bromide (stock concentration of 10 mg/mL)
+</li>
+    <li>Deionized water
+</li>
+    <li>PCR clean-up Gel column</li>
+    <li>NT1, NT3, Elution Buffers</li>
+    <li>Casting tray</li>
+    <li>Well combs</li>
+    <li>Voltage source</li>
+    <li>Gel box</li>
+    <li>UV light source</li>
+    <li>Microwave</li>
+    
+</ul>
+
+
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+  <li><h3 style="margin: 0 !important;">a) Pouring a Standard 1% Agarose Gel:</h3></li>
+  
+<ul>
+    <li>Measure 1 g of agarose</li>
+    <li>Mix agarose powder with 100 mL 1xTAE in a microwavable flask.</li>
+    <li>Microwave for 1-3 min until the agarose is completely dissolved.
+</li>
+    <li>Let the agarose solution cool down to about 50 °C in about 5 minutes
+</li>
+    <li>Add ethidium bromide (EtBr) to a final concentration of approximately 0.2-0.5 μg/mL</li>
+    <li>Pour the agarose into a gel tray with the well comb in place.</li>
+    <li>Place newly poured gel at 4 °C for 10-15 mins, or let sit at room temperature for 20-30 mins until it has completely solidified.</li>
+    
+    
+</ul>
+    
+ <ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">b) Loading Samples and Running an Agarose Gel:</h3></li>
+  
+  
+<ul>   
+<li>Add a loading buffer to each of the isolated yCD samples.
+</li>
+    <li>Once solidified, place the agarose gel into the gel box (electrophoresis unit).</li>
+    <li>To make 1x TAE from 50X TAE stock, dilute 20ml of stock into 980 ml of deionized water.
+</li>
+    <li>Fill the gel box with 1xTAE (or TBE) until the gel is covered.
+</li>
+    <li>Carefully load a molecular weight ladder into the first lane of the gel.</li>
+    <li>Carefully load your samples into the additional wells of the gel.
+</li>
+    <li>Run the gel at 80-150 V until the dye line is approximately 75-80% of the way down the gel</li>
+    <li>Turn OFF power, disconnect the electrodes from the power source, and then carefully remove the gel from the gel box.</li>
+    <li>Using any device that has UV light, visualize your DNA fragments as bands. </li>
+
+
 
     
 

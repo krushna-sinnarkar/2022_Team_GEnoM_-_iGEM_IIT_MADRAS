@@ -132,7 +132,7 @@ A 3rd year undergraduate in Biological Sciences with immense passion for scienti
 
 ![alt text](img/Sagar.jpeg){: style="height:200px;width:200px; margin:20px"}
 
-## **Fauculty Advisor**
+## **Faculty Advisors**
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
 **Dr. Karthik Raman**
