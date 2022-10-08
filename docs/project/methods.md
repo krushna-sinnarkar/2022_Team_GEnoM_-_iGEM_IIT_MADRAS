@@ -64,7 +64,7 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
 
 ![alt text](../img/e1.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 
-<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://link.springer.com/protocol/10.1007/978-1-60761-652-8_7</div>!
+<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://link.springer.com/protocol/10.1007/978-1-60761-652-8_7</div>
 <h2 style="margin: 0 !important;">Protein expression and purification</h2>
 
 <ul>
