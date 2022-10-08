@@ -77,7 +77,7 @@ I’m a Biological Engineering student at the Indian Institute of Technology, Ma
 **Bavishya Suresh Manju Bashini  | <a href="mailto:be20b009@smail.iitm.ac.in">be20b009@smail.iitm.ac.in</a>**
 
 ![alt text](img/Bavishya S M be20b009.jpeg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
+<div style="text-align: justify">Bavishya is a third year undergraduate in Biological Engineering. She doesn’t give up on dreams by continuing to sleep. She admires genetics so much that she got her genome sequenced. It came back with four main components: Amusing, Geeky, Tea and Chocolate with SNPs like melody and binging period dramas being predominant.
 </div>
 
 **Keshav Krishna M B | <a href="mailto:be20b018@smail.iitm.ac.in">be20b018@smail.iitm.ac.in</a>**
