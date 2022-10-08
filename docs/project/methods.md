@@ -7,7 +7,7 @@
 
 <a href="https://www.ddl.unimi.it/vegaol/propka.htm"><b>propKa:</b></a> propKa web server provides an empirical method to predict the variation of pKa values of protein’s side chains based on the position of the group and chemical interactions with other groups in its vicinity. Using the tool, Intra-protein electrostatic interactions of the amino acid residues at the active site of the target enzyme was identified. Any mutation affecting amino acid residues interacting with the active site amino acid residues was avoided. 
 
-**pyMOL:** pyMOL is a powerful molecular simulation software to visualize the three dimensional structure of proteins and other macromolecules. pyMOL was used to generate the PDB files of stable mutant enzymes identified from the pStab server. The PDB of the mutant molecule was uploaded to pSTAB and the electrostatic energy of the triple mutants were obtained to analyze their stability.
+<a href="https://pymol.org/2/"><b>pyMOL:</b></a> pyMOL is a powerful molecular simulation software to visualize the three dimensional structure of proteins and other macromolecules. pyMOL was used to generate the PDB files of stable mutant enzymes identified from the pStab server. The PDB of the mutant molecule was uploaded to pSTAB and the electrostatic energy of the triple mutants were obtained to analyze their stability.
 
 ![alt text](../img/c1.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 ![alt text](../img/c2.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
