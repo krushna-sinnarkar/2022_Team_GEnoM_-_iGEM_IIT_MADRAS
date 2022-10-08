@@ -110,7 +110,7 @@ Ashvita is a third year undergraduate majoring in Biological engineering at IIT 
 
 **Malavika Venkatesh  | <a href="mailto:bs20b020@smail.iitm.ac.in">bs20b020@smail.iitm.ac.in</a>**
 
-![alt text](img/malavika.jpg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/malavika1.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
 </div>
