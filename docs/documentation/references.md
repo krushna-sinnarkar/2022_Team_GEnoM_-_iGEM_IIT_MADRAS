@@ -71,7 +71,7 @@ Engineering, A Review. Jurnal Teknologi 59. https :
 
 <hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
-## *Supplementary**
+## **Supplementary**
 
 <a href="https://drive.google.com/drive/folders/1yH9yyBm0OmR5GpFdfAdzm6LsZDxX6gwD">Supplementary 1: PyMol PDB Files</a><br>
 <a href="https://drive.google.com/drive/folders/16uxr1bpSPz2pwj4vUqToOmkuimMBmZ8m">Supplementary 2: Electrostatic data from pStab</a>
