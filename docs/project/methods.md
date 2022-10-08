@@ -2,7 +2,7 @@
 
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
-# **An overview of the computational methods used**
+## **An overview of the computational methods used**
 **pStab web server:** The pStab webserver predicts the variation in stability of protein mutants under varying experimental conditions of ionic strength and temperature using the electrostatic  Debye-Hückel interaction energy of charged residues. A structure based statistical mechanical model is then employed to predict the thermal stability of the mutants. The server gives a stability-sorted list of the top 5000 mutants ordered based on their net electrostatic interaction energies and locations of mutational hotspots.
 
 **propKa:** propKa web server provides an empirical method to predict the variation of pKa values of protein’s side chains based on the position of the group and chemical interactions with other groups in its vicinity. Using the tool, Intra-protein electrostatic interactions of the amino acid residues at the active site of the target enzyme was identified. Any mutation affecting amino acid residues interacting with the active site amino acid residues was avoided. 
@@ -11,7 +11,7 @@
 
 <hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
-# **An overview of the Experimental Design**
+## **An overview of the Experimental Design**
 
 <h2 style="margin: 0 !important;">Bacterial Strains</h2>
 
@@ -53,6 +53,23 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
   <li><p style="margin: 0 !important;">Using this amplification efficiency, we can determine the number of doublings per cycle. Thus, we can determine the number of cycles necessary to achieve the desired number of mutations per template. </p></li>
   <li><p style="margin: 0 !important;">The FCY1 gene encoding cytosine deaminase in yeast is 803 bp long, and 2 mutations is the minimum necessary to show significant activity modification. At the minimum rate of DNA increase per cycle of 1.7, 5 epPCR doublings would be necessary. This is equivalent to,2 51.7 ≈ 19 cycles.</p></li>
   <li><p style="margin: 0 !important;">Random mutagenesis by error prone PCR : EP-PCR is used to introduce random mutations in the gene encoding yCD. The 5’ and 3’ boundaries of the mutated region have been defined using the primers: </p></li>
+</ul>
+
+<h2 style="margin: 0 !important;">Protein expression and purification</h2>
+
+<ul>
+  <li><p style="margin: 0 !important;">The expression of the protein of interest is induced by the addition of IPTG (Isopropyl β-D-1-thiogalactopyranoside) after the culture with the transformants reaches a saturated stage.</p></li>
+  <li><p style="margin: 0 !important;">The cells are harvested after incubation.</p></li>
+  <li><p style="margin: 0 !important;">The lysates are prepared under denaturing conditions.</p></li>
+  <li><p style="margin: 0 !important;">The batch purification is performed in an IMAC column containing Ni-NTA Agarose beads and analyzed by SDS-PAGE.</p></li>
+</ul>
+
+<h2 style="margin: 0 !important;">Protein enzymatic activity assays at constant pH </h2>
+The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by monitoring change in absorbance at 238nm.
+<ul>
+  <li><p style="margin: 0 !important;">The conversion of 5FC to 5FU by yCD is measured spectrophotometrically by monitoring the change in absorbance spectrum at 238 nm.</p></li>
+  <li><p style="margin: 0 !important;">The protein is diluted in TrisCl at a fixed pH (with setups ranging from pH6 to pH7 in increments) and the enzymatic activity is assayed. , The initial reaction velocity and initial slope are calculated (after averaging multiple measurements to reduce error) by fitting a curve to the values obtained.</p></li>
+  <li><p style="margin: 0 !important;">A double reciprocal (Lineweaver-Burk) plot is constructed and Km and kcat values of the enzymes are obtained to calculate the catalytic efficiency (kcat/Km).</p></li>
 </ul>
 
 [Back to top](#)
