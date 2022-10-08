@@ -176,6 +176,42 @@ https://nebcloner.neb.com/#!/protocol/re/double/NdeI,BlpI
    <div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Source: https://www.addgene.org/protocols/gel-electrophoresis/, https://www.protocols.io/viewdna-purification-from-an-agarose-gel-protocol-for-ewov18j32gr2/v1?step=5
 </div>
 
+<ul style="list-style-type:none;">
+  <li><h3 style="margin: 0 !important;">4. Performing error-prone PCR</h3></li>
+  <li><h3 style="margin: 0 !important;">Materials and Equipment:</h3></li> 
+    <ul>
+        <li>100 mM Tris-Cl buffer, pH 8.3
+        <li>2 M KCl
+        <li>200 mM MgCl2
+        <li>25 mM MnCl2
+        <li>25 mM, dCTP, pH 7
+        <li>25 mM, dTTP, pH 7
+        <li>5 mM, dATP, pH 7
+        <li>5 mM, dGTP, pH 7
+        <li>100 μM 5’ PCR primer
+        <li>100 μM 3’ PCR primer
+        <li>200 pg/μL DNA template
+        <li>5 U/μL Taq DNA polymerase
+        <li>100 μL PCR tubes
+        <li>Thermal cycler
+    </ul>
+  <li><h3 style="margin: 0 !important;">Procedure:</h3></li>
+    <ul>
+        <li>Make a reaction mixture in a 100 μL PCR tube on ice with:
+        <li>51 μL water, 10 μL Tris-Cl, 2.5 μL KCl, 3.5 μL MgCl2, 2 μL MnCl2 (Add just before thermal cycling starts), 4 μL (each of dCTP, dTTP, dATP and dGTP), 2 μL each of the 5’ primer and the 3’ primer, 10 μL template DNA and 1 μL Taq DNA polymerase (Add when reaction reaches first annealing step). 
+        <li>The tube is then placed in a thermal cycler and enough PCR cycles are performed to achieve 10 doublings with:
+        <li>94 °C for 1 minute (for denaturation), 
+        <li>60 °C for 1 minute (for annealing) and 
+        <li>72 °C for 3 minutes (for extension). 
+        <li>The tube is then run on an ethidium bromide-stained agarose gel to confirm the amount of the DNA product.
+    </ul>
+    </ul> 
+    <div style="color:gray;text-align: left;margin: 20px 0 20px 0;">Sources:
+• iDEC Resources Wiki<br>
+• Copp et al., Directed Evolution Library Creation – Methods and Protocols,
+2nd Edition (2014), Springer Protocols<br>
+• Wilson, D. S., & Keefe, A. D. (2001), Random Mutagenesis by PCR, Current
+Protocols in Molecular Biology. doi:10.1002/0471142727.mb0803s51<br>
 
-    
+</div>  
 
