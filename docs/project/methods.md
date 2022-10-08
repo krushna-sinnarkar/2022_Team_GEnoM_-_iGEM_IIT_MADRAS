@@ -65,7 +65,6 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
 </ul>
 
 <h2 style="margin: 0 !important;">Protein enzymatic activity assays at constant pH </h2>
-<br><br>
 The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by monitoring change in absorbance at 238nm.
 <ul>
   <li><p style="margin: 0 !important;">The conversion of 5FC to 5FU by yCD is measured spectrophotometrically by monitoring the change in absorbance spectrum at 238 nm.</p></li>
