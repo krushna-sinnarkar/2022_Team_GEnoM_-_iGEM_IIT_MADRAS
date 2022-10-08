@@ -58,6 +58,7 @@ As seen in Table 1, mutations at the 92nd, 110th, 117th and the 125th position a
 |                                            | E110 - R          |           |
 |                                            | K120 - D          | -98.7          |
 
+
 According to table 2, highest E values have been recorded for a triple mutant at the 80th, 110th and the 120th residue (as mentioned in Table I Row 6. pSTAB suggests a neutral amino acid to be substituted at the 80th position, a positively charged amino acid in the 110th position and the negatively charged amino acids in the 120th position. Thus, alanine was substituted in the 80th position, arginine in the 110th position and aspartic acid in the 120th position as shown in Figure 7.F.
 
 ![alt text](../img/results3.jpeg){: style="width:500px;margin:20px;display: block;margin-left: auto;margin-right: auto;"}
