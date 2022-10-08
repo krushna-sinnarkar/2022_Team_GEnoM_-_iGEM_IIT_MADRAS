@@ -63,7 +63,8 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
   <li><p style="margin: 0 !important;">Random mutagenesis by error prone PCR : EP-PCR is used to introduce random mutations in the gene encoding yCD. The 5’ and 3’ boundaries of the mutated region have been defined using the primers: </p></li>
 </ul>
 
-[alt text](../img/e1.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+![alt text](../img/e1.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+
 <div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: https://link.springer.com/protocol/10.1007/978-1-60761-652-8_7</div>!
 <h2 style="margin: 0 !important;">Protein expression and purification</h2>
 
@@ -73,8 +74,8 @@ Reverse (38mer, Tm=55℃) : TAAGCAGCTNAGCCTACTCACCAATATCTTCAAACCAA
   <li><p style="margin: 0 !important;">The lysates are prepared under denaturing conditions.</p></li>
   <li><p style="margin: 0 !important;">The batch purification is performed in an IMAC column containing Ni-NTA Agarose beads and analyzed by SDS-PAGE.</p></li>
 </ul>
-[alt text](../img/e2.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
-[alt text](../img/e3.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+![alt text](../img/e2.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+![alt text](../img/e3.jpeg){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 <h2 style="margin: 0 !important;">Protein enzymatic activity assays at constant pH </h2>
 The conversion of 5FC to 5FU by yCD will be measured spectrophotometrically by monitoring change in absorbance at 238nm.
 <ul>
