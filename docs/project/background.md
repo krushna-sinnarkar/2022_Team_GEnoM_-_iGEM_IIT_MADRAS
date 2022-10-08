@@ -18,8 +18,22 @@
 ![alt text](../img/background4.png){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
 <div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: Hao, Guanyu & Xu, Zhi & Li, Li. (2018). Manipulating extracellular tumor pH: An effective target for cancer therapy. RSC Advances. 8. 22182-22192. 10.1039/C8RA02095G</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The structure of yCD was studied by visualizing its intra-protein interactions at active sites using Propka. We generated double, triple and quadruple mutants computationally and compared the stability of the mutants to the wildtype yCD enzyme at pH 5. The web server pStab was employed to study electrostatic stability at different temperatures and pH levels. Multiple point mutations were generated at random and put through pStab, with four mutational hotspots identified and the structure deduced in pyMOL. The obtained set of mutated proteins had a lower electrostatic energy than the wild type in a lower pH environment. We analyzed the proposed reaction mechanism between 5FC and CD, leading us to the conclusion that the relationship between stability and activity may not be very straightforward.
+# **What is directed evolution?**
+Directed evolution is a method which aims to mimic the process of natural selection to attain a specific predefined-goal. Mutations are induced in a given protein and nucleic acid, followed by assaying proteins and selecting the best mutant for the required function. This requires the structure of the protein to be studied in detail, in order to better understand the regions to be mutated. The broad steps involved in performing directed evolution are the generation of multiple mutant libraries, followed by screening for the best mutants. A superior mutant may be produced from the best mutants through genetic recombination. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We intend to experimentally validate these results and simultaneously test for the increased catalytic activity of cytosine deaminase at lower pH values by transforming our chassis E. coli with the mutated yCD gene, using pET15b as the vector backbone
+Owing to the refinements and advancements that directed evolution has brought to the field of synthetic biology, our team concluded that it was the best method to facilitate achieving our goal of creating a pH-stable mutant of cytosine deaminase.
+![alt text](../img/background5.webp){: style="width:500px; margin:20px;display: block;margin-left: auto;margin-right: auto;"}
+<div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Source: Yajie Wang, Pu Xue, Mingfeng Cao, Tianhao Yu, Stephan T. Lane, and Huimin Zhao
+Chemical Reviews 2021 121 (20), 12384-12444
+DOI: 10.1021/acs.chemrev.1c00260
+</div>
+
+# **An overview of the computational methods used**
+**pStab web server:** The pStab webserver predicts the variation in stability of protein mutants under varying experimental conditions of ionic strength and temperature using the electrostatic  Debye-Hückel interaction energy of charged residues. A structure based statistical mechanical model is then employed to predict the thermal stability of the mutants. The server gives a stability-sorted list of the top 5000 mutants ordered based on their net electrostatic interaction energies and locations of mutational hotspots.
+
+**propKa:** propKa web server provides an empirical method to predict the variation of pKa values of protein’s side chains based on the position of the group and chemical interactions with other groups in its vicinity. Using the tool, Intra-protein electrostatic interactions of the amino acid residues at the active site of the target enzyme was identified. Any mutation affecting amino acid residues interacting with the active site amino acid residues was avoided. 
+
+**pyMOL:** pyMOL is a powerful molecular simulation software to visualize the three dimensional structure of proteins and other macromolecules. pyMOL was used to generate the PDB files of stable mutant enzymes identified from the pStab server. The PDB of the mutant molecule was uploaded to pSTAB and the electrostatic energy of the triple mutants were obtained to analyze their stability.
+
 
 [Back to top](#)

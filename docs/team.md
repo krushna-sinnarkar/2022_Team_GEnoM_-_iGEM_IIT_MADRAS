@@ -42,7 +42,7 @@ Anirudh Rao is a second-year Biological Engineering student. His life revolves a
 
 **Ashna Narain | <a href="mailto:be21b008@smail.iitm.ac.in">be21b008@smail.iitm.ac.in</a>**
 
-![alt text](img/Ashna Narain be21b008.jpeg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/ashna.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 I’m a Biological Engineering student at the Indian Institute of Technology, Madras. Some of my hobbies include design and classical dance.
 </div>
@@ -66,6 +66,64 @@ I’ll message you this soon (not def my description)
 <div style="text-align: justify">
 I am Twisha Shivashankar. I am from Bangalore and am currently a 2nd year undergraduate student in the Biological Engineering course of IIT Madras. Beyond academics, I engage myself in art and craft, playing the guitar and keyboard. I am also an avid badminton player.
 </div>
+
+**Aarohee Vora | <a href="mailto:aaroheeavora@smail.iitm.ac.in">aaroheeavora@smail.iitm.ac.in</a>**
+
+![alt text](img/Aaro.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Aarohee is a 3rd year undergraduate student in Biosciences at IIT Madras. She is very passionate about research and her interests lie in Synthetic Biology, Immunology, Therapeutics and Genetics. She is eager to unravel the mysteries of the microscopic world, humming along with nature and its evolving hues... Amongst other things, she enjoys travelling, art and playing badminton! To read her story, decode her genome... 
+</div>
+
+**Anirudh TP | <a href="mailto:bs21b007@smail.iitm.ac.in">bs21b007@smail.iitm.ac.in</a>**
+
+![alt text](img/anirudh.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Anirudh TP is a second year Undergraduate pursuing Biological Sciences from IIT Madras. He's a very enthusiastic and compassionate individual and likes to be very organized with his work. He is very interested in research and likes playing table tennis and watching movies.  
+</div>
+
+**Prahalaad Vijay Varahaswami | <a href="mailto:prahalaad@smail.iitm.ac.in">prahalaad@smail.iitm.ac.in</a>**
+
+![alt text](img/prahalaad.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Prahalaad is a 3rd year undergraduate in Biological Engineering. He is passionate about classical music and Indian percussion is his jam. He also loves biology jokes, He'd tell you one but it'll get lost in translation, just like introns. 
+</div>
+
+**Pranathi Ravikumar | <a href="mailto:bs21b023@gmail.com">bs21b023@gmail.com</a>**
+
+![alt text](img/pranathi.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Pranathi is a second year undergraduate student majoring in Biological Sciences at IIT Madras. Apart from her keen interest in Biotechnology, she plays the violin, listens to music and is am avid reader.   
+</div>
+
+**Niharika Balasubramanian  | <a href="mailto:bs21b022@smail.iitm.ac.in">bs21b022@smail.iitm.ac.in</a>**
+
+![alt text](img/niharika.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Niharika Balasubramanian is a second year biological sciences student at IIT Madras. She has always been a bit of a distracted person, never actually doing what she’s supposed to be, but somehow what she actually does ends up being useful. She enjoys reading, baking, and crochet, but would like to remind everyone that she’s the most useful one in the case of a zombie apocalypse.  
+</div>
+
+**Ashvita Saishaa Ponnada  | <a href="mailto:be20b007@smail.iitm.ac.in">be20b007@smail.iitm.ac.in</a>**
+
+![alt text](img/ashvita.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Ashvita is a third year undergraduate majoring in Biological engineering at IIT Madras. She has an avid interest towards the fields of genetics, genomics and synthetic biology. Apart from being a huge gossip and lipbalm addict, she is passionate about singing and classical dance, and is a voracious reader. 
+</div>
+
+**Malavika Venkatesh  | <a href="mailto:bs20b020@smail.iitm.ac.in">bs20b020@smail.iitm.ac.in</a>**
+
+![alt text](img/malavika.jpg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
+</div>
+
+**Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
+
+![alt text](img/Ananya Sangeetha Nagarjunan bs20b006.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
+</div>
+
+
 
 <br>
 [Back to top](#)

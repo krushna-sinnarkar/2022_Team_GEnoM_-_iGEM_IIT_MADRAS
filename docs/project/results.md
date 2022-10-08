@@ -16,6 +16,8 @@ The yeast cytosine deaminase protein uses zinc in its catalytic binding domain. 
 
 At pH 5 the concentration of hydrogen ions is high. These hydrogen ions attack the oxygen marked as 1 a higher concentration than at pH 7. Once the hydrogen ions in the medium forms a bond with the oxygen, it inhibits the formation of hydrogen bond with cytosine. Hence, hydrogen ions inhibit the deamination of cytosine. The uracil production, thus comes down when the pH is decreased. This reaction hindered by the hydrogen ions is depicted in Figure 5. pH Stability The stability of various mutants of yCD at pH 5 is studied using pSTAB, a software used to engineer protein stabilities. The wild type yCD enzyme is more stable at pH 5 than at pH 7. However, we have tried to improve the stability of yCD at pH 5 by inducing various mutations. The pSTAB program suggested a list of residues which are hotspots for improving the stability of cytosine deaminase. This includes a list of double, triple and quadruple mutants values which are included in table 1
 
+
+
 # **pH Stability** 
 
 The stability of various mutants of yCD at pH 5 is studied using, pSTAB a software used to engineer protein stabilities. The wild type yCD enzyme is more stable at pH 5 than at pH 7. However, we have tried to improve the stability of yCD at pH 5 by inducing various mutations. The pSTAB program suggested a list of residues which are hotspots for improving the stability of cytosine deaminase. This includes a list of double, triple and quadruple mutants values which are included in table 1
@@ -35,7 +37,6 @@ As seen in Table 1, mutations at the 92nd, 110th, 117th and the 125th position a
 <div style="color:gray;text-align: center;margin: 20px 0 20px 0;">Table 2</div>
 | Mutation Number                            | Mutations induced | ΔE values |
 | :----------------------------------------- | :---------------- | :-------- |
-|                                            |                   |           |
 | No Mutations                               | wild type         | -93.4     |
 | Mutation I                                 |  D92 - A          |           |
 |                                            |  E110 - A         |           |
