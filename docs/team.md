@@ -12,11 +12,11 @@
 Shobhan Karthick is a 3rd year biological engineering student who is a synthetic biology enthusiast. He loves learn new crazy stuff to satisfy his curiosity. He spends his free time reading short comics, doing some carpentry or some coding. He is quite lazy but uses amazing automations as a work around.
 </div>
 
-**Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
+**Aarohee Vora | <a href="mailto:aaroheeavora@smail.iitm.ac.in">aaroheeavora@smail.iitm.ac.in</a>**
 
-![alt text](img/Varshini be19b006.jpeg){: style="height:200px;width:200px; margin:20px"}
+![alt text](img/Aaro.jpeg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
-I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
+Aarohee is a 3rd year undergraduate student in Biosciences at IIT Madras. She is very passionate about research and her interests lie in Synthetic Biology, Immunology, Therapeutics and Genetics. She is eager to unravel the mysteries of the microscopic world, humming along with nature and its evolving hues... Amongst other things, she enjoys travelling, art and playing badminton! To read her story, decode her genome... 
 </div>
 
 **Sanjana Adluru | <a href="mailto:be20b028@smail.iitm.ac.in">be20b028@smail.iitm.ac.in</a>**
@@ -24,6 +24,20 @@ I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind 
 ![alt text](img/Sanjana Adluru be20b028.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Sanjana Adluru is a third-year student in Biological Engineering. She's passionate about singing and has watched a fair share of sitcoms to last her a lifetime. She is keenly interested in the fields of oncology, immunology, genomics and synthetic biology. She strives to take up projects which bring about beneficial change in the world. 
+</div>
+
+**Prahalaad Vijay Varahaswami | <a href="mailto:prahalaad@smail.iitm.ac.in">prahalaad@smail.iitm.ac.in</a>**
+
+![alt text](img/prahalaad.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+Prahalaad is a 3rd year undergraduate in Biological Engineering. He is passionate about classical music and Indian percussion is his jam. He also loves biology jokes, He'd tell you one but it'll get lost in translation, just like introns. 
+</div>
+
+**Varshini S | <a href="mailto:be19b006@smail.iitm.ac.in">be19b006@smail.iitm.ac.in</a>**
+
+![alt text](img/Varshini be19b006.jpeg){: style="height:200px;width:200px; margin:20px"}
+<div style="text-align: justify">
+I am Varshini, a Biotech Enthusiast. Cap me and tail me, I'll translate to mind blowing information!
 </div>
 
 **Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
@@ -67,25 +81,11 @@ I’ll message you this soon (not def my description)
 I am Twisha Shivashankar. I am from Bangalore and am currently a 2nd year undergraduate student in the Biological Engineering course of IIT Madras. Beyond academics, I engage myself in art and craft, playing the guitar and keyboard. I am also an avid badminton player.
 </div>
 
-**Aarohee Vora | <a href="mailto:aaroheeavora@smail.iitm.ac.in">aaroheeavora@smail.iitm.ac.in</a>**
-
-![alt text](img/Aaro.jpeg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-Aarohee is a 3rd year undergraduate student in Biosciences at IIT Madras. She is very passionate about research and her interests lie in Synthetic Biology, Immunology, Therapeutics and Genetics. She is eager to unravel the mysteries of the microscopic world, humming along with nature and its evolving hues... Amongst other things, she enjoys travelling, art and playing badminton! To read her story, decode her genome... 
-</div>
-
 **Anirudh TP | <a href="mailto:bs21b007@smail.iitm.ac.in">bs21b007@smail.iitm.ac.in</a>**
 
 ![alt text](img/anirudh.jpg){: style="height:200px;width:200px; margin:20px"}
 <div style="text-align: justify">
 Anirudh TP is a second year Undergraduate pursuing Biological Sciences from IIT Madras. He's a very enthusiastic and compassionate individual and likes to be very organized with his work. He is very interested in research and likes playing table tennis and watching movies.  
-</div>
-
-**Prahalaad Vijay Varahaswami | <a href="mailto:prahalaad@smail.iitm.ac.in">prahalaad@smail.iitm.ac.in</a>**
-
-![alt text](img/prahalaad.jpeg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-Prahalaad is a 3rd year undergraduate in Biological Engineering. He is passionate about classical music and Indian percussion is his jam. He also loves biology jokes, He'd tell you one but it'll get lost in translation, just like introns. 
 </div>
 
 **Pranathi Ravikumar | <a href="mailto:bs21b023@gmail.com">bs21b023@gmail.com</a>**
@@ -116,14 +116,16 @@ Ashvita is a third year undergraduate majoring in Biological engineering at IIT 
 Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
 </div>
 
-**Ananya Sangeetha Nagarjunanz | <a href="mailto:hiananya@gmail.com">hiananya@gmail.com</a>**
+## **WebOps Team**
+<hr style="height:1px;border:none;color:#808080;background-color:#808080;" />
 
-![alt text](img/Ananya Sangeetha Nagarjunan bs20b006.jpeg){: style="height:200px;width:200px; margin:20px"}
-<div style="text-align: justify">
-Ananya is a student of Biological Sciences at the Indian Institute of Technology, Madras. Her primary research interests lie in evolutionary genetics and biomaterials, with an avid fascination with marine biology. She aims to introduce the sense of sustainability into every research project undertaken, and also invests time incorporating biomimetic principles in said projects. 
-</div>
+**Krushna Sharad Sinnarkar | <a href="mailto:krushnasinnarkar@gmail.com">krushnasinnarkar@gmail.com</a>**
 
+![alt text](img/Krushna Sharad Sinnarkar WebOps.jpg){: style="height:200px;width:200px; margin:20px"}
 
+**Sagar Sugunan | <a href="mailto:na20b054@smail.iitm.ac.in">na20b054@smail.iitm.ac.in</a>**
+
+![alt text](img/Sagar.jpeg){: style="height:200px;width:200px; margin:20px"}
 
 <br>
 [Back to top](#)
